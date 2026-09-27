@@ -2,7 +2,7 @@
 Project: Manufacturing Quality and Sales Analytics
 Author: Gowtham V
 Purpose: Portfolio demonstration using synthetic data
-Database: PostgreSQL
+Database: MySQL
 */
 
 DROP TABLE IF EXISTS manufacturing_sales;
